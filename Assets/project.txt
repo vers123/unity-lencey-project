@@ -1,0 +1,46 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 BCAB-B7C0
+D:.
+│  project.txt
+│  README.md
+│  Scenes.meta
+│  Scripts.meta
+│  Settings.meta
+│  
+├─Scenes
+│      Lencey.unity
+│      Lencey.unity.meta
+│      
+├─Scripts
+│  │  InputSystem_Actions.cs
+│  │  InputSystem_Actions.cs.meta
+│  │  InputSystem_Actions.inputactions
+│  │  InputSystem_Actions.inputactions.meta
+│  │  Lencey.meta
+│  │  
+│  └─Lencey
+│          CameraFollow.cs
+│          CameraFollow.cs.meta
+│          Coin.cs
+│          Coin.cs.meta
+│          ScoreManager.cs
+│          ScoreManager.cs.meta
+│          Tutorial.cs
+│          Tutorial.cs.meta
+│          
+└─Settings
+        DefaultVolumeProfile.asset
+        DefaultVolumeProfile.asset.meta
+        Mobile_Renderer.asset
+        Mobile_Renderer.asset.meta
+        Mobile_RPAsset.asset
+        Mobile_RPAsset.asset.meta
+        PC_Renderer.asset
+        PC_Renderer.asset.meta
+        PC_RPAsset.asset
+        PC_RPAsset.asset.meta
+        SampleSceneProfile.asset
+        SampleSceneProfile.asset.meta
+        UniversalRenderPipelineGlobalSettings.asset
+        UniversalRenderPipelineGlobalSettings.asset.meta
+        
